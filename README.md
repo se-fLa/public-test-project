@@ -4,5 +4,3 @@ This project is just to test github features of public repositories.
 fork chnage
 
 Master chnage
-
-Issue resolved
